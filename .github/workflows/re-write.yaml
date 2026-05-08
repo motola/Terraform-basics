@@ -1,0 +1,12 @@
+name: Terraform Workflow
+on: 
+  pull_request:
+    branches: [ main ]
+jobs:
+  plan:
+    name: Terraform init
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 
+
+

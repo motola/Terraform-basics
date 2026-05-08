@@ -1,4 +1,3 @@
-re-write.yaml
 .terraform/
 *.tfstate
 *.tfstate.*
